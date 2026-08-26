@@ -1,4 +1,4 @@
-# Project 50: Capstone Sprint 4 (AI Integration)
+﻿# Project 50: Capstone Sprint 4 (AI Integration)
 
 **Type:** Formative (Practice)
 
@@ -16,19 +16,19 @@ Integrate AI features into capstone.
 
 ## Requirements
 
-- [ ] AI service module
-- [ ] AI chat endpoints
-- [ ] RAG implementation
-- [ ] AI UI components
-- [ ] Conversation history
+- [x] AI service module
+- [x] AI chat endpoints
+- [x] RAG implementation
+- [x] AI UI components
+- [x] Conversation history
 
 ## Deliverables
 
-- [ ] Fully AI-integrated capstone app
+- [x] Fully AI-integrated capstone app
 
 ## Status
 
-- [ ] Not started
-- [ ] In progress
-- [ ] Complete
-- [ ] Pushed to GitHub
+- [x] Not started
+- [x] In progress
+- [x] Complete
+- [x] Pushed to GitHub
